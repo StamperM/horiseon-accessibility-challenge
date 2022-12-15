@@ -102,7 +102,7 @@ aside {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* reduced the lines of code by since these share the same style properties */
 .search-engine-optimization, .online-reputation-management , .social-media-marketing  {
     margin-bottom: 20px;
     padding: 50px;
@@ -112,7 +112,7 @@ aside {
     color: #ffffff;
 }
 
-/* combinded these elements since they have the same style */
+/*combined these elements since they have the same style */
 .search-engine-optimization img, .online-reputation-management img, .social-media-marketing img {
     max-height: 200px;
 }
